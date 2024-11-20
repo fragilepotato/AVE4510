@@ -15,7 +15,7 @@ This is to record my matlab learning process.
 
 ## Clone repository
 ```
-(https://github.com/fragilepotato/AVE4510.git)
+https://github.com/fragilepotato/AVE4510.git
 ```
 
 ## Matlab Version
